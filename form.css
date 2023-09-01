@@ -1,0 +1,60 @@
+#form{
+    border: 3px #1c5022 outset;
+    background-color: #1c5022;
+    max-width: 600;
+    width: 300px;
+    height:300px;
+    max-height: auto;
+    text-align: center;
+    box-shadow: -12px -3px  3px 3px;
+    margin-left: 16px;
+   
+    
+}
+#marq{
+    font-size: 23px;
+    margin-bottom: 78px;
+    border: 3px solid #1a2315;
+    border-radius: 15px;
+    width: 865px;
+    color: skyblue;
+    box-shadow: -4px -7px 3px 3px;
+}
+#store{
+    display: flex;
+    gap: 120px;
+    max-width: auto;
+    
+}
+body{
+    margin:120px;
+}
+#gen{
+    border: 2px solid #1c3022;
+    
+}
+#table{
+    background-color: #1b4563;
+    border-radius: 10px;
+    margin-left: 98px;
+    box-shadow: 5px -5px 3px 5px;
+}
+body{
+    background-color: #1f0123;
+}
+.inp{
+    text-align: center;
+}
+#control{
+    margin-left:78px;
+}
+#control{
+    margin-bottom: 134px;
+}
+#header{
+    text-align: center;
+    
+    color: #a12;
+    justify-content: flex-start;
+    
+}
